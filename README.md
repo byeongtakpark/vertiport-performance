@@ -15,3 +15,4 @@ Code accompanying the " Vertiport Performance Analysis for On-Demand Urban Air M
 * ```TC_Tran.mat```, ```TT_Tran.mat```, ```TD_Car.mat```, ```TT_Car.mat``` - The preprocessed data obtained from the [Naver map (2021)](https://map.naver.com/v5/). 
 * ```figure_code.m``` - Code to generate the figures for results.
 * ```utility.m``` - Matlab function file to evaluate the uilities of the each mode.
+* ```Vertiport_performance.slx``` - Simulinke file to evaluate the vertiport performance (i.e., the service level of the vertiport).
