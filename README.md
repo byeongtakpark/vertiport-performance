@@ -1,8 +1,8 @@
 # vertiport-performance
 Code accompanying the " Vertiport Performance Analysis for On-Demand Urban Air Mobility Operation in Seoul Metropolitan Area" and "Analysis of Vertiport Performance via Queueing Network Model" by Byeong Tak Park. 
 
-* The former paper is published in [International Journal of Aeronautical and Space Sciences (2022)](https://link.springer.com/article/10.1007/s42405-022-00505-z).
-* The latter paper is my master thesis.
+* The former is published in [International Journal of Aeronautical and Space Sciences (2022)](https://link.springer.com/article/10.1007/s42405-022-00505-z).
+* The latter is my master thesis.
 
 ## Requirements
 
