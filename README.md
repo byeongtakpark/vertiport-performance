@@ -4,6 +4,11 @@ Code accompanying the " Vertiport Performance Analysis for On-Demand Urban Air M
 * The former paper is published in [International Journal of Aeronautical and Space Sciences (2022)](https://link.springer.com/article/10.1007/s42405-022-00505-z).
 * The latter paper is my master thesis.
 
+## Requirements
+
+* MATALB (All codes were written in the MATLAB environment)
+* Simulink
+
 ## Code
 
 * ```UAM_demand_estimation.m``` - Main code to estimate the UAM demand in the Seoul metropolitan areas. 
