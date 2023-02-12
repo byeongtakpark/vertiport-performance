@@ -6,6 +6,7 @@ Code accompanying the " Vertiport Performance Analysis for On-Demand Urban Air M
 
 ## Code
 
-* ```UAM_demand_estimation.m``` - Main code to evaluate the UAM demand in the Seoul metropolitan areas. 
+* ```UAM_demand_estimation.m``` - Main code to estimate the UAM demand in the Seoul metropolitan areas. 
 * ```TC_Tran.mat```, ```TT_Tran.mat```, ```TD_Car.mat```, ```TT_Car.mat``` - The preprocessed data obtained from the [Naver map (2021)](https://map.naver.com/v5/). 
 * ```figure_code.m``` - Code to generate the figures for results.
+* ```utility.m``` - Matlab function file to evaluate the uilities of the each mode.
